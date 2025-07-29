@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yanuar Fauzan Isnain</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on CV. Creative IT Jogja
+- 🔭 I’m currently working on CV. Indomedia Kreasi
 
-- 🌱 I’m currently learning **Spring Boot Framework**
+- 🌱 I’m currently learning **DApp Development**
 
 - 📫 How to reach me **yanuarisnain017@gmail.com**
 
